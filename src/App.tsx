@@ -1,5 +1,11 @@
+import TodoList from "./pages/\bTodoList";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <TodoList />
+    </>
+  );
 }
 
 export default App;
